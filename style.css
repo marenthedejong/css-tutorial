@@ -4,7 +4,10 @@ body {
     color: navy;
 }
 p {
-    line-height: 21px;
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
 }
 
 h1 {
@@ -14,6 +17,10 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
+	 background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+	
 }
 
 a {
